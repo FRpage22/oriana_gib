@@ -16,6 +16,17 @@ body{
     background: radial-gradient(circle at top, #ffd6e8, #e6d6ff);
 }
 
+.img_portada{
+
+    width: 20rem;
+    height: 20rem;
+    object-fit: cover;
+    align-items: center;
+    display:flex;
+    justify-content:center;
+    border-radius: 100%;
+}
+
 .hero h1{
     font-size:3rem;
     margin:0;
